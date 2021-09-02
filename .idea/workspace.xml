@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af47d775-4198-4634-a8a6-f068a4103006" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="JPA Inspector" value="true" />
+        <entry key="JPA Palette" value="true" />
+        <entry key="JPA Structure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="JPA Inspector" value="false" />
+        <entry key="JPA Palette" value="false" />
+        <entry key="JPA Structure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1wp85Zv7kgXmmqd3ldmei4Rtm0X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/BankingApp/src/main/java/com/Wonderlab/BankingApp" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.capture" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Computer Science\TUTORIALS\PROJECTS\Java projects\Spring boot Thymeleaf\Project 2\BankingApp\BankingApp\src\main\java\com\Wonderlab\BankingApp" />
+      <recent name="E:\Computer Science\TUTORIALS\PROJECTS\Java projects\Spring boot Thymeleaf\Project 2\BankingApp\BankingApp\src\main\resources\templates" />
+      <recent name="E:\Computer Science\TUTORIALS\PROJECTS\Java projects\Spring boot Thymeleaf\Project 2\BankingApp\BankingApp\src\main\resources\static" />
+      <recent name="E:\Computer Science\TUTORIALS\PROJECTS\Java projects\Spring boot Thymeleaf\Project 2\BankingApp\BankingApp\src\main\java\com\Wonderlab\BankingApp\service" />
+      <recent name="E:\Computer Science\TUTORIALS\PROJECTS\Java projects\Spring boot Thymeleaf\Project 2\BankingApp\BankingApp\src\main\java\com\Wonderlab\BankingApp\config" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BankingApp" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/BankingApp" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af47d775-4198-4634-a8a6-f068a4103006" name="Default Changelist" comment="" />
+      <created>1629143990769</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629143990769</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/BankingApp/src/main/java/com/Wonderlab/BankingApp/model/Account.java</url>
+          <line>25</line>
+          <properties field="acc_name" class="com.Wonderlab.BankingApp.model.Account" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/BankingApp/src/main/java/com/Wonderlab/BankingApp/service/AccountsService.java</url>
+          <line>28</line>
+          <properties class="com.Wonderlab.BankingApp.service.AccountsService" method="addAccount">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/BankingApp/src/main/java/com/Wonderlab/BankingApp/service/PaymentService.java</url>
+          <line>390</line>
+          <properties class="com.Wonderlab.BankingApp.service.PaymentService" method="getAllPayments">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/BankingApp/src/main/java/com/Wonderlab/BankingApp/controller/PaymentsController.java</url>
+          <line>61</line>
+          <properties class="com.Wonderlab.BankingApp.controller.PaymentsController" method="showResults">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
